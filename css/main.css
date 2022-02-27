@@ -1,0 +1,124 @@
+@charset "utf-8";
+/* CSS Document */
+.lonnhat
+{
+	width:100%;
+	height:1400px;
+	background-color: bisque;
+}
+.header 
+{
+	width:100%;
+	height:50px;
+	background-color: aqua;
+}
+.logo
+{
+	width: 50px;
+	height:30px;
+	background-color: blue;
+	float: left;
+	margin: 10px 30px 10px 30px;
+}
+.congcu
+{
+	width:100px;
+	height:25px;
+	background-color: blue;
+	float:right;
+	margin: 10px 30px 10px;
+}
+.middle
+{
+	width:100%;
+	height: 400px;
+	background-color: cadetblue;
+}
+.nho
+{
+	width:100px;
+	height:25px;
+	background-color:crimson;
+	margin: 170px 650px 150px 650px; 
+}
+.danhsach
+{
+	width:100%;
+	height: 200px;
+	background-color:brown;
+}
+.video
+{
+	width:100%;
+	height:250px;
+	background-color: chartreuse;
+}
+.vuong 
+{
+	width:50px;
+	height:50px;
+	background-color: darkgreen;
+	float: left;
+	border: 1px solid white;
+	margin: 30px 150px 10px 180px;
+}
+.clip
+{
+	width: 500px;
+	height:170px;
+	background-color: darkcyan;
+	float:right;
+	margin: 40px 150px 40px 50px;
+	border: 1px solid white;
+}
+.vuongg
+{
+	width: 150px;
+	height: 25px;
+	background-color: black;
+	margin: 165px 20px 40px 185px;
+}
+
+.list
+{
+	width: 100%;
+	height: 400px;
+	background-color:darkgreen;
+}
+.rectangle
+{
+	width:250px;
+	height: 60px;
+	background-color: darkslategray;
+	float: left;
+	border: 1px solid white;
+	margin: 80px 20px 5px 185px;
+}
+.signup
+{
+	width:100%;
+	height:150px;
+	background-color: palevioletred;
+}
+.rect1
+{
+	width: 600px;
+	height: 40px;
+	background-color: dodgerblue;
+	float :left;
+	margin: 50px 50px 50px 300px;
+}
+.rect2
+{
+	width:150px;
+	height:40px;
+	background-color:darkorange;
+	float: right;
+	margin: 50px 350px 50px 50px;
+}
+.footer
+{
+	width: 100%;
+	height:250px;
+	background-color: mediumvioletred;
+}
